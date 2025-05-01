@@ -8,6 +8,9 @@ This project is a fully responsive front-end movie website that highlights featu
 categorized movie sections, and user navigation—all crafted without using any front-end frameworks like React or Vue.
 It's ideal for learning layout structuring, DOM manipulation, and UI/UX design in plain JavaScript.
 
+🚀 Live Demo
+Experience the live version of the project here: https://movie-website-rosy-sigma.vercel.app/
+
 🔧 Technologies & Concepts Used
 Category	Technologies / Concepts
 Languages	HTML5, CSS3, JavaScript (ES6)
